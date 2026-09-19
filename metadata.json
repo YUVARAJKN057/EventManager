@@ -1,0 +1,6 @@
+{
+  "name": "EventManager",
+  "description": "A premium campus event discovery platform featuring personalized recommendations, club management portals, and AI-powered event categorization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Firebase", "Gemini AI", "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
